@@ -89,7 +89,7 @@ public class TestMultiple extends TestBase {
 	}
 	
 	
-	//Duplicate Strings in Name
+	//Duplicate Strings in Name testing
 	@Test
 	public void testRepatedChards() throws Exception {
 		Thread.sleep(2000);
