@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14660" started-at="2023-02-04T10:14:50 IST" finished-at="2023-02-04T10:15:04 IST">
+  <suite name="Default suite" duration-ms="12814" started-at="2023-02-04T10:43:25 IST" finished-at="2023-02-04T10:43:38 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14660" started-at="2023-02-04T10:14:50 IST" finished-at="2023-02-04T10:15:04 IST">
+    <test name="Default test" duration-ms="12814" started-at="2023-02-04T10:43:25 IST" finished-at="2023-02-04T10:43:38 IST">
       <class name="TestCases.TestMultiple">
-        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.TestMultiple@37374a5e]" name="setup" is-config="true" duration-ms="6883" started-at="2023-02-04T10:14:50 IST" finished-at="2023-02-04T10:14:56 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.TestMultiple@37374a5e]" name="setup" is-config="true" duration-ms="5051" started-at="2023-02-04T10:43:25 IST" finished-at="2023-02-04T10:43:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testHover()[pri:0, instance:TestCases.TestMultiple@37374a5e]" name="testHover" duration-ms="5084" started-at="2023-02-04T10:14:56 IST" finished-at="2023-02-04T10:15:02 IST">
+        <test-method status="PASS" signature="testHover()[pri:0, instance:TestCases.TestMultiple@37374a5e]" name="testHover" duration-ms="5069" started-at="2023-02-04T10:43:30 IST" finished-at="2023-02-04T10:43:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHover -->
-        <test-method status="PASS" signature="testRepatedChards()[pri:0, instance:TestCases.TestMultiple@37374a5e]" name="testRepatedChards" duration-ms="2006" started-at="2023-02-04T10:15:02 IST" finished-at="2023-02-04T10:15:04 IST">
+        <test-method status="PASS" signature="testRepatedChards()[pri:0, instance:TestCases.TestMultiple@37374a5e]" name="testRepatedChards" duration-ms="2004" started-at="2023-02-04T10:43:35 IST" finished-at="2023-02-04T10:43:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRepatedChards -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:TestCases.TestMultiple@37374a5e]" name="teardown" is-config="true" duration-ms="642" started-at="2023-02-04T10:15:04 IST" finished-at="2023-02-04T10:15:04 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestCases.TestMultiple@37374a5e]" name="teardown" is-config="true" duration-ms="656" started-at="2023-02-04T10:43:37 IST" finished-at="2023-02-04T10:43:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
